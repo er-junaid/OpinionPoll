@@ -1,0 +1,18 @@
+.jumbotron {
+    background-color: rgb(51, 102, 153);
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    margin-bottom: 40px;
+}
+
+#link-btn {
+    color: white;
+    border-color: white;
+}
+
+#link-btn:hover {
+    color: rgb(51, 102, 153);
+    border-color: rgb(51, 102, 153);
+    background-color: white;
+}

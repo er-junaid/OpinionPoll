@@ -1,0 +1,18 @@
+.question {
+    padding-top: 12px;
+    padding-bottom: 8px;
+}
+
+.h4-text-color {
+    color: rgb(51, 102, 153);
+}
+
+.btn-primary {
+    background-color: rgb(51, 102, 153);
+    border-color: rgb(51, 102, 153);
+}
+
+.btn-primary:hover {
+    background-color: rgb(80, 144, 209);
+    border-color: rgb(80, 144, 209);
+}

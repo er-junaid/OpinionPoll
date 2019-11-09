@@ -1,0 +1,15 @@
+.rmv-padding {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#chart-button {
+    color: rgb(51, 102, 153);
+    border-color: rgb(51, 102, 153);
+}
+
+#chart-button:hover {
+    color: white;
+    border-color: white;
+    background-color: rgb(51, 102, 153);
+}
