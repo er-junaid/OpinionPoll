@@ -51,7 +51,10 @@ class Chart extends Component {
                 optionsObj.scales = {
                     yAxes: [{
                         ticks: {
-                            beginAtZero: true
+                            beginAtZero: true,
+                            autoSkip: true,
+                            minTicksLimit:5,
+                            maxTicksLimit: 6
                         }
                     }]
                 };
